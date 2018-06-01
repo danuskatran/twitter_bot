@@ -1,0 +1,21 @@
+keys = dict(
+     consumer_key='u0ySzbkLjggctCFU83zxzxeCn',
+     consumer_secret='414liT2qCcy558HQ5Zg55rBJnJFJlPDwtwF070FoiFVrwuYJ3T',
+     access_token='993480081841549313-Q9bILErHhNcXCeWlGkKuUpgLHkjs71z',
+     access_token_secret='bFeaHP4x1ulzbatjFslF921JZ9WwsSmt13QjURG94KlUc'
+)
+
+# OTHER KEYS TO NEWLY CREATED ACCOUNTS
+# keys = dict(
+#     consumer_key='fTWWv2LOd9ZbobLI6QRiNPRoU',
+#     consumer_secret='xbGJaSUO8zsXe5e5zrpii8M0zY6treXkCpoWFifMMWRNChPpqR',
+#     access_token='992693275810258944-naC1Qtw455yJK2HgSun8nRosOiAJPUA',
+#     access_token_secret='B5W1ECdejeQMhOnvy4y7ga8lZHZdxpf32owjl3hwRVyQE'
+# )
+
+# keys = dict(
+#      consumer_key='FuqjmZn9ulMZJJxqlxqjxfxHs',
+#      consumer_secret='nYfHm0bCTLObLRa6u0QGPzS5NIkuYuWgDzSkJaXUUnSt2Trq2x',
+#      access_token='992383015291707398-NNp6NQchAinaJHH6rqlWHnEUHGoNIAY',
+#      access_token_secret='ZzArOjBrz7D1EimWrcv1HDSLqdlRGqj4ymz3pIseM3rPh'
+# )
